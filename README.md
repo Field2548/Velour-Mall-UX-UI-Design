@@ -124,5 +124,5 @@ The visual design is guided by a **"Luxurious & Classic"** mood board. The color
 
 ## Tools & Technologies
 
-*   **UI/UX Design & Prototyping:** Figma
-*   **Presentation & Brochure Design:** Canva
+*   **UI/UX Design & Prototyping:** Figma.
+*   **Presentation & Brochure Design:** Canva.
